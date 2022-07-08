@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T18:18:26.569Z" agent="5.0 (X11)" etag="5h2Kn9JAFEMVL-LFyil9" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-08T21:12:17.196Z" agent="5.0 (X11)" etag="a1FoQlcrClW6OqtvKTah" version="20.0.4" type="github" pages="2">
   <diagram id="gqnzzbSIDqZl4aElLX9u" name="Page-1">
     <mxGraphModel dx="1613" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,8 +90,8 @@
         <mxCell id="n70dUNSALg2dcs-Qynuj-64" value="Kubernetes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1730" y="1100" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n70dUNSALg2dcs-Qynuj-65" value="Container Network Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1706" y="1080" width="160" height="20" as="geometry" />
+        <mxCell id="n70dUNSALg2dcs-Qynuj-65" value="GPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1185.5" y="720" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n70dUNSALg2dcs-Qynuj-66" value="Kernel Module" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1720" y="1120" width="90" height="20" as="geometry" />
@@ -161,6 +161,9 @@
             <mxPoint x="1520" y="600" as="sourcePoint" />
             <mxPoint x="1570" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gmfPM2_OEfdavsCGverq-1" value="&lt;div&gt;Cloud Brasil6G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="150" width="232" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
