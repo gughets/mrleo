@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T11:46:17.974Z" agent="5.0 (Windows)" etag="AG391i9AEU0Sai4fatWs" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-24T11:47:56.656Z" agent="5.0 (Windows)" etag="6Ea5fcyxTy7TzMSDN9JT" version="20.0.4" type="github">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
-    <mxGraphModel dx="2130" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,11 @@
         <mxCell id="49" value="CERCOMP" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;strokeColor=#23445D;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#23445D;fontStyle=0;gradientDirection=north;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="110" y="22" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="50" value="Cloud 2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;strokeColor=#23445D;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#23445D;fontStyle=0;gradientDirection=north;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry y="117" width="120" height="80" as="geometry" />
+        <mxCell id="lxL178eFW0DsgaRUMhwb-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="1" source="50" target="49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="CLOUD" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;strokeColor=#23445D;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#23445D;fontStyle=0;gradientDirection=north;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="137" width="150" height="153" as="geometry" />
         </mxCell>
         <mxCell id="79" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontSize=18;fontColor=#F08705;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="40" y="503" width="80" height="80" as="geometry" />
@@ -261,6 +264,12 @@
         </mxCell>
         <mxCell id="lxL178eFW0DsgaRUMhwb-230" value="Switch HP Rede 2 - 192.168.2.2/24" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="403" y="465" width="134" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lxL178eFW0DsgaRUMhwb-232" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="165.5" width="24.5" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lxL178eFW0DsgaRUMhwb-233" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
