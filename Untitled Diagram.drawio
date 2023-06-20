@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T13:01:34.505Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="bk4ZOOnzTKQ-64eOFtM9" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T13:02:47.144Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="X_io_nvfHWwHH0ZX524T" version="21.3.7" type="github">
   <diagram name="Page-1" id="80d4a630-b321-0f5e-ff81-c5a36ef4752d">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
         <mxCell id="5XOQ1sOLNjQ7FhJYN-SZ-5" value="&lt;div&gt;VP&lt;sub&gt;u,k,v&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="557.6" y="690" width="82.4" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5XOQ1sOLNjQ7FhJYN-SZ-6" value="Cache = VP&lt;sup&gt;O&lt;/sup&gt;&lt;sub&gt;u,k,v&lt;/sub&gt;&lt;br&gt;&lt;div&gt;Residual = VP&lt;sup&gt;C&lt;/sup&gt;&lt;sub&gt;u,k,v&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5XOQ1sOLNjQ7FhJYN-SZ-6" value="Cache = VP&lt;sup&gt;C&lt;/sup&gt;&lt;sub&gt;u,k,v&lt;/sub&gt;&lt;br&gt;&lt;div&gt;Residual = VP&lt;sup&gt;R&lt;/sup&gt;&lt;sub&gt;u,k,v&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="731" y="690" width="219" height="50" as="geometry" />
         </mxCell>
       </root>
