@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T12:00:19.341Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="mriVpYyhuhRMBvhvVk1u" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T14:27:31.359Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="XGBcYOu2KoEQkul2ZTrT" version="22.1.15" type="github">
   <diagram id="wHJIIEB0xueXXnvSconN" name="Page-3">
     <mxGraphModel dx="546" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -491,16 +491,16 @@
         <mxCell id="et5YMB3ePHzCt5zDMrDA-70" value="&lt;i style=&quot;font-size: 3px;&quot;&gt;View Point&lt;/i&gt; Usuário B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
           <mxGeometry x="420.91999999999996" y="160" width="26.05" height="18.37" as="geometry" />
         </mxCell>
-        <mxCell id="et5YMB3ePHzCt5zDMrDA-71" value="(a) Representação do &lt;i&gt;View Point&lt;/i&gt; de usuários&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+        <mxCell id="et5YMB3ePHzCt5zDMrDA-71" value="(a) Representação do &lt;i&gt;View Point&lt;/i&gt; de usuários&lt;i&gt;.&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
           <mxGeometry x="395" y="171.63" width="85" height="18.37" as="geometry" />
         </mxCell>
-        <mxCell id="et5YMB3ePHzCt5zDMrDA-72" value="(b) Vídeos 360° formato original&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+        <mxCell id="et5YMB3ePHzCt5zDMrDA-72" value="(b) Vídeos 360° formato original&lt;i&gt;.&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
           <mxGeometry x="540" y="170" width="85" height="18.37" as="geometry" />
         </mxCell>
-        <mxCell id="et5YMB3ePHzCt5zDMrDA-73" value="(c) Vídeos 360° em formato equirretangular composto por &lt;i&gt;Basic Tiles&lt;/i&gt; iguais&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+        <mxCell id="et5YMB3ePHzCt5zDMrDA-73" value="(c) Vídeos 360° em formato equirretangular composto por &lt;i&gt;Tiles &lt;/i&gt;básicos.&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
           <mxGeometry x="391.45" y="261.63" width="85" height="18.37" as="geometry" />
         </mxCell>
-        <mxCell id="et5YMB3ePHzCt5zDMrDA-74" value="(d) Composição de Basic Tiles em &lt;i&gt;Dynamic Tiles com as regiões de interesse&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+        <mxCell id="et5YMB3ePHzCt5zDMrDA-74" value="(d) Composição de &lt;i&gt;Tiles&lt;/i&gt; básicos em &lt;i&gt;Tiles &lt;/i&gt;dinâmicos&lt;i&gt; com as regiões de interesse&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
           <mxGeometry x="540" y="261.63" width="85" height="18.37" as="geometry" />
         </mxCell>
       </root>
